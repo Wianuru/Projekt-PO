@@ -1,0 +1,247 @@
+Liczba tramwajów to: 15
+0 Reached destination at point 440 400
+ New destination set for 0 310 470
+0 started moving on road 10
+1 Reached destination at point 130 500
+ New destination set for 1 310 470
+1 started moving on road 8
+2 Reached destination at point 200 300
+ New destination set for 2 105 116
+2 started moving on road 1
+3 Reached destination at point 440 400
+ New destination set for 3 560 420
+3 started moving on road 12
+4 Reached destination at point 560 420
+ New destination set for 4 440 400
+4 started moving on road 12
+5 Reached destination at point 560 420
+ New destination set for 5 440 400
+5 started moving on road 12
+6 Reached destination at point 130 500
+ New destination set for 6 390 285
+6 started moving on road 7
+7 Reached destination at point 315 135
+ New destination set for 7 390 285
+7 started moving on road 6
+8 Reached destination at point 700 90
+ New destination set for 8 315 135
+8 started moving on road 3
+9 Reached destination at point 390 285
+ New destination set for 9 440 400
+9 started moving on road 11
+10 Reached destination at point 390 285
+ New destination set for 10 440 400
+10 started moving on road 11
+11 Reached destination at point 200 300
+ New destination set for 11 105 116
+11 started moving on road 1
+12 Reached destination at point 310 470
+ New destination set for 12 440 400
+12 started moving on road 10
+13 Reached destination at point 660 270
+ New destination set for 13 700 90
+13 started moving on road 4
+14 Reached destination at point 315 135
+ New destination set for 14 700 90
+14 started moving on road 3
+3 Reached destination at point 560 420
+ New destination set for 3 750 540
+3 started moving on road 15
+9 Reached destination at point 440 400
+ New destination set for 9 560 420
+9 started moving on road 12
+1 Reached destination at point 310 470
+ New destination set for 1 440 400
+1 started moving on road 10
+4 Reached destination at point 440 400
+ New destination set for 4 390 285
+4 started moving on road 11
+5 Reached destination at point 440 400
+ New destination set for 5 390 285
+5 started moving on road 11
+10 Reached destination at point 440 400
+ New destination set for 10 560 420
+10 started moving on road 12
+2 Reached destination at point 105 116
+2 has finished
+11 Reached destination at point 105 116
+11 has finished
+0 Reached destination at point 310 470
+ New destination set for 0 130 500
+0 started moving on road 8
+12 Reached destination at point 440 400
+ New destination set for 12 560 420
+12 started moving on road 12
+9 Reached destination at point 560 420
+ New destination set for 9 750 540
+9 started moving on road 15
+13 Reached destination at point 700 90
+13 has finished
+7 Reached destination at point 390 285
+ New destination set for 7 440 400
+7 started moving on road 11
+Road 12 status changed to closed
+Road 16 status changed to closed
+Road 11 status changed to closed
+1 Reached destination at point 440 400
+ New destination set for 1 500 550
+1 started moving on road 13
+14 Reached destination at point 700 90
+ New destination set for 14 660 270
+14 started moving on road 4
+Road 16 status changed to open
+3 Reached destination at point 750 540
+3 has finished
+4 Reached destination at point 390 285
+ New destination set for 4 315 135
+4 started moving on road 6
+5 Reached destination at point 390 285
+ New destination set for 5 700 90
+5 started moving on road 5
+10 Reached destination at point 560 420
+ New destination set for 10 750 540
+10 started moving on road 15
+Road 11 status changed to open
+Road 14 status changed to closed
+6 Reached destination at point 390 285
+ New destination set for 6 310 470
+6 started moving on road 9
+12 Reached destination at point 560 420
+ New destination set for 12 660 270
+12 started moving on road 16
+Road 10 status changed to closed
+7 Reached destination at point 440 400
+ New destination set for 7 560 420
+Road 15 status changed to closed
+0 Reached destination at point 130 500
+0 has finished
+9 Reached destination at point 750 540
+9 has finished
+1 Reached destination at point 500 550
+ New destination set for 1 750 540
+8 Reached destination at point 315 135
+ New destination set for 8 200 300
+8 started moving on road 2
+14 Reached destination at point 660 270
+ New destination set for 14 750 540
+14 started moving on road 17
+6 Reached destination at point 310 470
+ New destination set for 6 440 400
+Road 17 status changed to closed
+4 Reached destination at point 315 135
+ New destination set for 4 200 300
+4 started moving on road 2
+Road 1 status changed to closed
+12 Reached destination at point 660 270
+ New destination set for 12 700 90
+12 started moving on road 4
+10 Reached destination at point 750 540
+10 has finished
+Road 2 status changed to closed
+14 Reached destination at point 750 540
+ New destination set for 14 500 550
+8 Reached destination at point 200 300
+ New destination set for 8 105 116
+Road 17 status changed to open
+Road 2 status changed to open
+Road 13 status changed to closed
+4 Reached destination at point 200 300
+ New destination set for 4 105 116
+5 Reached destination at point 700 90
+5 has finished
+12 Reached destination at point 700 90
+12 has finished
+Road 15 status changed to open
+Road 11 status changed to closed
+Road 3 status changed to closed
+Road 9 status changed to closed
+Road 16 status changed to closed
+Road 15 status changed to closed
+Road 15 status changed to open
+Road 6 status changed to closed
+Road 5 status changed to closed
+Road 13 status changed to open
+Road 11 status changed to open
+Road 10 status changed to open
+6 started moving on road 10
+Road 13 status changed to closed
+Road 9 status changed to open
+Road 7 status changed to closed
+Road 12 status changed to open
+7 started moving on road 12
+6 Reached destination at point 440 400
+ New destination set for 6 560 420
+6 started moving on road 12
+Road 5 status changed to open
+Road 11 status changed to closed
+7 Reached destination at point 560 420
+ New destination set for 7 750 540
+7 started moving on road 15
+6 Reached destination at point 560 420
+ New destination set for 6 660 270
+Road 1 status changed to open
+4 started moving on road 1
+8 started moving on road 1
+Road 12 status changed to closed
+Road 11 status changed to open
+Road 3 status changed to open
+Road 12 status changed to open
+Road 7 status changed to open
+Road 3 status changed to closed
+Road 14 status changed to open
+1 started moving on road 14
+14 started moving on road 14
+4 Reached destination at point 105 116
+4 has finished
+7 Reached destination at point 750 540
+7 has finished
+8 Reached destination at point 105 116
+8 has finished
+Road 1 status changed to closed
+1 Reached destination at point 750 540
+ New destination set for 1 660 270
+1 started moving on road 17
+14 Reached destination at point 500 550
+14 has finished
+Road 11 status changed to closed
+Road 8 status changed to closed
+Road 15 status changed to closed
+Road 3 status changed to open
+Road 1 status changed to open
+Road 14 status changed to closed
+1 Reached destination at point 660 270
+ New destination set for 1 700 90
+1 started moving on road 4
+Road 5 status changed to closed
+Road 14 status changed to open
+Road 4 status changed to closed
+Road 4 status changed to open
+1 Reached destination at point 700 90
+1 has finished
+Road 7 status changed to closed
+Road 9 status changed to closed
+Road 7 status changed to open
+Road 9 status changed to open
+Road 11 status changed to open
+Road 10 status changed to closed
+Road 17 status changed to closed
+Road 13 status changed to open
+Road 8 status changed to open
+Road 11 status changed to closed
+Road 7 status changed to closed
+Road 6 status changed to open
+Road 6 status changed to closed
+Road 17 status changed to open
+Road 16 status changed to open
+6 started moving on road 16
+Road 11 status changed to open
+Road 9 status changed to closed
+Road 3 status changed to closed
+6 Reached destination at point 660 270
+ New destination set for 6 700 90
+6 started moving on road 4
+Road 17 status changed to closed
+Road 14 status changed to closed
+Road 12 status changed to closed
+6 Reached destination at point 700 90
+6 has finished
